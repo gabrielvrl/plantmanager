@@ -13,9 +13,9 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFFFFF&labelColor=32B768" alt="License">
   
-  <img src="https://img.shields.io/github/forks/birobirobiro/nlw-05-plantmanager?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
+  <img src="https://img.shields.io/github/forks/gabrielvrl/plantmanager?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/birobirobiro/nlw-05-plantmanager?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  <img src="https://img.shields.io/github/stars/gabrielvrl/plantmanager?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
 </p>
 
 <br>
@@ -39,14 +39,14 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/birobirobiro/nlw-05-plantmanager.git && cd nlw-05-plantmanager
+$ git clone https://github.com/gabrielvrl/plantmanager.git && cd plantmanager
 ```
 
 Follow the steps below
 
 ```bash
 # Install the dependencies
-$ yarn install
+$ npm install
 
 # Start the project
 $ expo start
