@@ -9,7 +9,7 @@ import {
 
 import api from '../services/api'
 
-import { EnviromentButton } from "../components/EnviromentButton";
+import { EnviromentButton } from "../components/EnvironmentButton";
 import { Header } from '../components/Header'
 import { PlantCardPrimary } from "../components/PlantCardPrimary";
 import { Load } from '../components/Load'
